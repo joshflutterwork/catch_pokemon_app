@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "105148674117",
+    "project_id": "catch-pokemon-43b1f",
+    "storage_bucket": "catch-pokemon-43b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105148674117:android:e3eade696b1b22191b332c",
+        "android_client_info": {
+          "package_name": "com.catch_pokemon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105148674117-jdl84av8377irokm74p2592e60rfu616.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catch_pokemon_app",
+            "certificate_hash": "52d12f3d988eac919fc7d62bd057a2cff2e1e223"
+          }
+        },
+        {
+          "client_id": "105148674117-ss55rv96t9gmb5k0ao21f8ksik1rd3ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKq7HUlmk5f5yr8IIcK42iFGT1jmSOPbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105148674117-ss55rv96t9gmb5k0ao21f8ksik1rd3ua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105148674117-ir5jc0u5dg6btkq94nufhdgt32fggcv5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.catchPokemonApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105148674117:android:73f4483a6e19f1eb1b332c",
+        "android_client_info": {
+          "package_name": "com.catch_pokemon_app.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105148674117-ss55rv96t9gmb5k0ao21f8ksik1rd3ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKq7HUlmk5f5yr8IIcK42iFGT1jmSOPbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105148674117-ss55rv96t9gmb5k0ao21f8ksik1rd3ua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105148674117-ir5jc0u5dg6btkq94nufhdgt32fggcv5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.catchPokemonApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

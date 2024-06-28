@@ -1,0 +1,14 @@
+# import ./get_pokemons.graphql
+
+query GetPokemons($limit: Int!) {
+  pokemons(limit: $limit) {
+    count
+    next
+    previous
+    results {
+      url
+      name
+      image
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# import ./get_pokemons_location.graphql
+
+query GetLocations {
+  locations {
+    count
+    next
+    previous
+    results {
+      url
+      name
+    }
+  }
+}
